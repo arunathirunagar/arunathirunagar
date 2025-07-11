@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Aruna 👋
 
-<!--
-**arunathirunagar/arunathirunagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Undergrad | Aspiring SWE Intern  
+💻 Currently learning DSA using C++ and building web projects  
+🚀 Preparing for Google SWE Internship  
+🌱 I love solving problems and building useful products
 
-Here are some ideas to get you started:
+**📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/aruna-thirunagar-b7432633b/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔹 **Tech Stack:**  
+- Languages: C++, Python, JavaScript  
+- Web: HTML, CSS, React  
+- Tools: Git, VS Code
+
+🔹 **Currently Working On:**  
+- Improving my DSA and problem-solving skills  
+- Building personal projects for my resume and practical learning
+
+🔹 **Fun Fact:**  
+I enjoy watching Doraemon during breaks 🩵 while debugging code.
+
