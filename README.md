@@ -10,8 +10,8 @@
 ---
 
 🔹 **Tech Stack:**  
-- Languages: C++, Python, JavaScript  
-- Web: HTML, CSS, React  
+- Languages: C++, Python 
+- Web: HTML, CSS,javascript  
 - Tools: Git, VS Code
 
 🔹 **Currently Working On:**  
